@@ -1,6 +1,21 @@
+body{
+    color: black;
+    background: blue;
+    margin: 0px;
+    font-family: "Playwrite GB 5", cursive;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: solid 3px red;
+    padding: 20px;
+    font-size: 32px;
+    color: blueviolet;
+}
+
 .chamada{
     background-color: blueviolet(206,152,161);
     margin-top: 80px;
+    font-family: "Unlock", serif;
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
